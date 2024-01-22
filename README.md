@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Arjesh Khadka</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Innovative Software Developer | Crafting Seamless Solutions with Precision Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjesh1&label=Profile%20views&color=0e75b6&style=flat" alt="arjesh1" /> </p>
 
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/arjesh-khadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjesh-khadka" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjesh1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjesh1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
 alt="arjesh1 :: overall Top Langs " /></p>
 
 <p align="center">
