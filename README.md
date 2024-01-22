@@ -9,10 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.arjeshkhadka.com/](https://www.arjeshkhadka.com/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:
 <a href="https://linkedin.com/in/arjesh-khadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjesh-khadka" height="30" width="40" /></a>
-</p>
+</h3>
 
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjesh1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
 alt="arjesh1 :: overall Top Langs " /></p>
