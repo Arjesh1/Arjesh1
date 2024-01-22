@@ -16,6 +16,13 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjesh1&show_icons=true&locale=en&layout=compact" alt="arjesh1" /></p>
 
+<p align="center">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjesh1&theme=gruvbox&layout=compact&hide_border=true"
+alt="arjesh1 :: Top Langs by repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arjesh1&theme=gruvbox&layout=compact&hide_border=true"
+alt="arjesh1 :: Top Langs by commit" />
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
