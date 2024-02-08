@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Arjesh Khadka</h1>
-<h3 align="center">Innovative Software Developer | Crafting Seamless Solutions with Precision Code</h3>
+<h3 align="center">Innovative Software Developer | Coding Solutions for Real-World Challenges</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjesh1&label=Profile%20views&color=0e75b6&style=flat" alt="arjesh1" /> </p>
 
