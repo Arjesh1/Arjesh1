@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://www.arjeshkhadka.com/](https://www.arjeshkhadka.com/)
+- 👨‍💻 All of my projects are available at [https://www.arjeshkhadka.xyz/](https://www.arjeshkhadka.xyz/)
 
 <h3 align="left">Connect with me:
 <a href="https://linkedin.com/in/arjesh-khadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjesh-khadka" height="30" width="40" /></a>
