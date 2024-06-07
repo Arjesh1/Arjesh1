@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Arjesh Khadka</h1>
+<h1 align="center">Hi <span style="font-size: 1rem;"> :wave: </span>, I'm Arjesh Khadka</h1>
 <h3 align="center">Innovative Software Developer | Coding Solutions for Real-World Challenges</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjesh1&label=Profile%20views&color=0e75b6&style=flat" alt="arjesh1" /> </p>
