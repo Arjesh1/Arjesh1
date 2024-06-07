@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjesh1&label=Profile%20views&color=0e75b6&style=flat" alt="arjesh1" /> </p>
 
 <div align="center">
-<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+<img  src="github.png" alt="banner" />
 </div>
 <br/>
 
