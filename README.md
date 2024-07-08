@@ -1,5 +1,5 @@
 <h1 align="center">Hi <span style="font-size: 2rem;"> :wave: </span>, I'm Arjesh Khadka</h1>
-<h3 align="center">Software Engineerr | Solving complex problems through code</h3>
+<h3 align="center">Software Engineer | Solving complex problems through code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjesh1&label=Profile%20views&color=0e75b6&style=flat" alt="arjesh1" /> </p>
 
